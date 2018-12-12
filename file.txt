@@ -1,3 +1,3 @@
 Жили-были на свете три разработчика.
-И звали их: Mr.-Edem,Mr.Second Developer,Mr.Third Developer.
+И звали их: Mr.-Edem,Mr.Second,Mr.Third Developer.
 
